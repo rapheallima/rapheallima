@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Trabalhando atualmente em WEG
-- 🌱 Cursando Analise e Desenvolvimento de Sistemas(ADS) pela Estácio, Formando em Full Stack Java pela EBAC
+- 🌱 Cursando superior em Analise e Desenvolvimento de Sistemas(ADS) pela Estácio, Formado em Full Stack Java pela EBAC
 - 📫 Contate-me no e-mail: raphaellima365@gmail.com
 - 😄 Pronomes: ele/dele
   
