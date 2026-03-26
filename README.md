@@ -1,35 +1,49 @@
-### Olá !👋 Eu sou o Raphael de Lima
+# Olá, eu sou o Raphael de Lima 👋
 
-##
+### 🚀 Desenvolvedor Full Stack Java em evolução
+Sou apaixonado por construir soluções eficientes e escaláveis. Atualmente, atuo na **WEG** e estou focado em dominar o ecossistema **Spring Boot** e arquiteturas modernas.
 
-- 🔭 Trabalhando atualmente em WEG
-- 🌱 Cursando superior em Analise e Desenvolvimento de Sistemas(ADS) pela Estácio, Formado em Full Stack Java pela EBAC
-- 📫 Contate-me no e-mail: raphaellima365@gmail.com
-- 😄 Pronomes: ele/dele
-  
-<a href="https://github.com/rapheallima/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rapheallima&theme=radical" />
-</a>
-<a href="https://github.com/rapheallima/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rapheallima&theme=radical&layout=compact&langs_count=8&card_width=313" />
-</a>
+---
 
-##
+### 🛠️ Minhas Tecnologias & Ferramentas
 
-  <div style="display: inline_block"><br>  
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io) ![JavaScript](https://img.shields.io) ![PHP](https://img.shields.io) |
+| **Back-end** | ![Spring](https://img.shields.io) ![Hibernate](https://img.shields.io) ![MySQL](https://img.shields.io) |
+| **Front-end** | ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io) ![React](https://img.shields.io) |
+| **Ferramentas** | ![IntelliJ IDEA](https://img.shields.io) ![Git](https://img.shields.io) ![Docker](https://img.shields.io) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app""")/>>
+  <img height="180em" src="https://github-readme-stats.vercel.app""")/>>
 </div>
 
-##
+---
 
+### 🌱 O que estou fazendo agora?
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio.
+- 🏗️ Construindo um **ToDoList Full Stack** com Spring Boot e React.
+- ⚡ Buscando maestria em Clean Code e boas práticas de desenvolvimento.
 
-<div> 
-  <a href="https://www.instagram.com/dev_ph13?igsh=MWNocmh1Nm82cmpvZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:raphaellima365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphaeldelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+---
+
+### 📫 Vamos nos conectar?
+<div align="left">
+  <a href="https://www.linkedin.com/in/raphaeldelima/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dev_ph13?igsh=MWNocmh1Nm82cmpvZg==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:raphaellima365@gmail.com">
+    <img src="https://img.shields.io" />
+  </a>
 </div>
 
+---
